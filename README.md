@@ -1,22 +1,22 @@
 Еще репозитории: 
 
-https://github.com/severilov/GenPhys-labs_3-4-5sem
++ https://github.com/severilov/GenPhys-labs_3-4-5sem
 
-https://github.com/vikstr/MIPT_labs_5sem
++ https://github.com/vikstr/MIPT_labs_5sem
 
-https://github.com/ithilwing/MIPT-LABS
++ https://github.com/ithilwing/MIPT-LABS
 
-https://github.com/valentiay/MIPT_labs
++ https://github.com/valentiay/MIPT_labs
 
-https://github.com/rdbuf/DAFEPhysicsLabs
++ https://github.com/rdbuf/DAFEPhysicsLabs
 
-https://github.com/Kiarendil/labs
++ https://github.com/Kiarendil/labs
 
-https://github.com/L0ki4/MIPT3_GenPhys_labs
++ https://github.com/L0ki4/MIPT3_GenPhys_labs
 
-https://github.com/Nekhaevalex/Labs
++ https://github.com/Nekhaevalex/Labs
 
-+ https://vk.com/club139677307
+'+ бонус https://vk.com/club139677307
 
 ### 2 семестр (mipt2sem)
 [Лаборатория II семестр, МФТИ.](https://mipt.ru/education/chair/physics/S_II/lab/)
