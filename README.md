@@ -16,7 +16,7 @@
 
 + https://github.com/Nekhaevalex/Labs
 
-'+ бонус https://vk.com/club139677307
+\+ бонус https://vk.com/club139677307
 
 ### 2 семестр (mipt2sem)
 [Лаборатория II семестр, МФТИ.](https://mipt.ru/education/chair/physics/S_II/lab/)
