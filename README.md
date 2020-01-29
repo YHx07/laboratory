@@ -1,4 +1,4 @@
-(https://github.com/severilov/GenPhys-labs_3-4-5sem) Другое
+Еще репозитории: https://github.com/severilov/GenPhys-labs_3-4-5sem
 
 ### 2 семестр (mipt2sem)
 [Лаборатория II семестр, МФТИ.](https://mipt.ru/education/chair/physics/S_II/lab/)
