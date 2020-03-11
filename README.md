@@ -1,3 +1,6 @@
+Форма для отзывов:
+https://forms.gle/HsPyfvYucsyK1V779
+
 Еще репозитории: 
 
 + https://github.com/severilov/GenPhys-labs_3-4-5sem
@@ -55,6 +58,3 @@
 [`3.6.1`](https://github.com/YHx07/laboratory/blob/master/mipt3sem/3.6.1/3_6_1.pdf) Спектральный анализ.
 
 ---
-
-### polytech
-Лабораторная работа в Политехе Петра Великого (СПБ). Только построение графика (>1000 точек).
