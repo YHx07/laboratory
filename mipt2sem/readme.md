@@ -1,3 +1,5 @@
+Форма для отзывов: https://forms.gle/HsPyfvYucsyK1V779
+
 ### 2 семестр (mipt2sem)
 [Лаборатория II семестр, МФТИ.](https://mipt.ru/education/chair/physics/S_II/lab/)
 
