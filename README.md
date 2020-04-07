@@ -1,6 +1,3 @@
-Форма для отзывов:
-https://forms.gle/HsPyfvYucsyK1V779
-
 Еще репозитории: 
 
 + https://github.com/severilov/GenPhys-labs_3-4-5sem
