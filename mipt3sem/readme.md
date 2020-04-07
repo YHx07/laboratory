@@ -1,5 +1,3 @@
-Форма для отзывов: https://forms.gle/HsPyfvYucsyK1V779
-
 ### 3 семестр (mipt3sem)
 [Лаборатория III семестр, МФТИ.](https://mipt.ru/education/chair/physics/S_III/lab_el.php)
 
