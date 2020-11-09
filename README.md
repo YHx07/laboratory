@@ -1,5 +1,7 @@
 Еще репозитории: 
 
++ https://github.com/BlackSamorez/mipt_lab
+
 + https://github.com/severilov/GenPhys-labs_3-4-5sem
 
 + https://github.com/vikstr/MIPT_labs_5sem
